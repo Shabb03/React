@@ -13,4 +13,3 @@ This project is a notes webpage that allows you to add notes, delete added notes
 
 ![Page](./public/page-1.png)
 ![Page](./public/page-2.png)
-aaa
